@@ -1,0 +1,8 @@
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_11_Random_Cycle\Task_11_Random_Cycle\bin\Debug\Task_11_Random_Cycle.exe.config
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_11_Random_Cycle\Task_11_Random_Cycle\bin\Debug\Task_11_Random_Cycle.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_11_Random_Cycle\Task_11_Random_Cycle\bin\Debug\Task_11_Random_Cycle.pdb
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_11_Random_Cycle\Task_11_Random_Cycle\obj\Debug\Task_11_Random_Cycle.csproj.AssemblyReference.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_11_Random_Cycle\Task_11_Random_Cycle\obj\Debug\Task_11_Random_Cycle.csproj.SuggestedBindingRedirects.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_11_Random_Cycle\Task_11_Random_Cycle\obj\Debug\Task_11_Random_Cycle.csproj.CoreCompileInputs.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_11_Random_Cycle\Task_11_Random_Cycle\obj\Debug\Task_11_Random_Cycle.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_11_Random_Cycle\Task_11_Random_Cycle\obj\Debug\Task_11_Random_Cycle.pdb
