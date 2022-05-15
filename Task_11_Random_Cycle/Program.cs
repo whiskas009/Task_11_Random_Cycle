@@ -16,13 +16,13 @@ namespace Task_11_Random_Cycle
             int randomLimit = random.Next(minRandomValue, maxRandomValue);
             
             int sumMultiples = 0;
-            int multipleNumber_1 = 3;
-            int multipleNumber_2 = 5;
+            int firstMultipleNumber = 3;
+            int secondMultipleNumber = 5;
 
-            for (int termsNumber = 0; termsNumber < randomLimit; termsNumber++)
+            for (int i = 0; i <= randomLimit; i++)
             {
-                if (termsNumber % multipleNumber_1 == 0 || termsNumber % multipleNumber_2 == 0)
-                    sumMultiples += termsNumber;
+                if (i % firstMultipleNumber == 0 || i % secondMultipleNumber == 0)
+                    sumMultiples += i;
             }
             
             Console.WriteLine(sumMultiples);
